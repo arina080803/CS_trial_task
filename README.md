@@ -21,3 +21,5 @@ Ideas for improvement:
 
 *   we can train a special model that will also work with the space library or any other natural language processing library. In such a model, it is possible to implement the division of text into semantic phrases according to the vocabulary of the language in order to exclude the occurrence of article substitutions. The model will also be able to learn from hundreds of similar phrases in order to learn how to see the context and eliminate lexical, grammatical and semantic errors.
 *   in case we avoid writing our own model, we could additionally use text preprocessing libraries that work not only with punctuation marks, spaces and an array of words, but also take into account the totality of words during processing. Thus, the synthesis library would allow for high-quality lexical replacement of words in any text that the user suggests, for any text size.
+
+Spent time: 2 hours
